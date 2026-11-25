@@ -1,0 +1,3 @@
+/workspaces/tpp9_nadiiko/build/CMakeFiles/solid_refactoring_app.dir
+/workspaces/tpp9_nadiiko/build/CMakeFiles/edit_cache.dir
+/workspaces/tpp9_nadiiko/build/CMakeFiles/rebuild_cache.dir
